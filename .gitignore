@@ -1,4 +1,4 @@
 .idea
 *.iml
 *.txt
-out
+secret.txt
